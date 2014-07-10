@@ -41,6 +41,10 @@ def convert_to_words(number):
             skips -= 1
             continue
 
+        # Ignore zeros
+        if number_string[index] == "0":
+            continue
+
         # Our current decimal place
         place = len(number_string) - index
 
@@ -72,9 +76,7 @@ def convert_to_words(number):
 
         # If this is the ones place, print out ones number and end
         if place == 1:
-            # If the number ends in 0, do not add anything more
-            if number_string[index] != "0":
-                english_string += ones[int(number_string[index]) - 1] + " "
+            english_string += ones[int(number_string[index]) - 1] + " "
 
     return english_string.rstrip(" ")
 
@@ -90,3 +92,4 @@ if __name__ == "__main__":
     print convert_to_words(26)
     print convert_to_words(60)
     print convert_to_words(6)
+    print convert_to_words(5007)

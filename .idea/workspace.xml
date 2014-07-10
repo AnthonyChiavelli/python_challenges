@@ -38,25 +38,25 @@
       <file leaf-file-name="set_combination.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/set_combination.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="40" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="18" column="0" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numeric_converter.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="numeric_converter.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/numeric_converter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="74" selection-start="2241" selection-end="2241" vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1455">
+            <state line="43" column="22" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.39473686" vertical-offset="405" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="server.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.534282" vertical-offset="352" max-vertical-offset="1800">
+            <state line="51" column="0" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="1800">
               <folding>
                 <element signature="e#0#61#0" expanded="true" />
               </folding>
@@ -94,8 +94,8 @@
       <list>
         <option value="$PROJECT_DIR$/set_combination.py" />
         <option value="$PROJECT_DIR$/string_rotation.py" />
-        <option value="$PROJECT_DIR$/numeric_converter.py" />
         <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/numeric_converter.py" />
       </list>
     </option>
   </component>
@@ -167,7 +167,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.numeric_converter">
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,7 +388,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -396,7 +396,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30283225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12745099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30718955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -432,20 +432,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string_rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="17" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/set_combination.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="40" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python2.7/socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="223" column="0" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.0" vertical-offset="3126" max-vertical-offset="8640">
@@ -460,19 +446,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/numeric_converter.py">
+    <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="74" selection-start="2241" selection-end="2241" vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1455">
+        <state line="51" column="0" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="1800">
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="17" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.py">
+    <entry file="file://$PROJECT_DIR$/set_combination.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.534282" vertical-offset="352" max-vertical-offset="1800">
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
+        <state line="18" column="0" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numeric_converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="22" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.39473686" vertical-offset="405" max-vertical-offset="1500">
+          <folding />
         </state>
       </provider>
     </entry>
